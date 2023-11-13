@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "2",
+      "text": "Team Meeting",
+      "day": "10th of November 1:00 PM",
+      "reminder": false
+    },
+    {
+      "text": "Dentist",
+      "day": "11th November 2pm",
+      "reminder": true,
+      "id": "vfLvmKY"
+    },
+    {
+      "text": "Backend Development",
+      "day": "13th November",
+      "reminder": true,
+      "id": "obsxdGE"
+    }
+  ]
+}
