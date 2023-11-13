@@ -1,5 +1,5 @@
 # tracker-app
-
+- A basic task tracker app to track your daily goals.
 ## Project setup
 ```
 npm install
@@ -10,14 +10,9 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Json-server
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+npm run backend
 ```
 
 ### Customize configuration
